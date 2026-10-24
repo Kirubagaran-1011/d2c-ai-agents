@@ -1,0 +1,223 @@
+[
+  {
+    "sku": "SKU-001",
+    "name": "Assam Strong Morning Tea 250g",
+    "category": "tea",
+    "price_inr": 299,
+    "tags": [
+      "tea",
+      "strong",
+      "assam",
+      "morning",
+      "breakfast",
+      "chai",
+      "kadak"
+    ],
+    "description": "A bold, malty Assam black tea made for strong milk chai in the morning.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-002",
+    "name": "Darjeeling First Flush Tea 100g",
+    "category": "tea",
+    "price_inr": 649,
+    "tags": [
+      "tea",
+      "light",
+      "floral",
+      "darjeeling",
+      "premium",
+      "gift"
+    ],
+    "description": "A light, floral and delicate first flush Darjeeling tea for slow afternoons.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-003",
+    "name": "Masala Chai Blend 250g",
+    "category": "tea",
+    "price_inr": 349,
+    "tags": [
+      "chai",
+      "masala",
+      "spiced",
+      "ginger",
+      "cardamom"
+    ],
+    "description": "Black tea blended with ginger, cardamom and cloves for a spiced masala chai.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-004",
+    "name": "Chamomile Calm Herbal Tea 20 bags",
+    "category": "herbal tea",
+    "price_inr": 399,
+    "tags": [
+      "herbal",
+      "caffeine free",
+      "sleep",
+      "relax",
+      "night",
+      "calm"
+    ],
+    "description": "A caffeine free chamomile tea that helps you relax and sleep at night.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-005",
+    "name": "Green Tea with Tulsi 25 bags",
+    "category": "tea",
+    "price_inr": 275,
+    "tags": [
+      "green tea",
+      "tulsi",
+      "immunity",
+      "light"
+    ],
+    "description": "Light green tea with tulsi leaves, popular for daily immunity and wellness.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-006",
+    "name": "South Indian Filter Coffee Powder 500g",
+    "category": "coffee",
+    "price_inr": 450,
+    "tags": [
+      "coffee",
+      "filter",
+      "south indian",
+      "chicory"
+    ],
+    "description": "Dark roast filter coffee powder with chicory for a traditional south indian decoction.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-007",
+    "name": "Cold Brew Coffee Bags 10 pack",
+    "category": "coffee",
+    "price_inr": 520,
+    "tags": [
+      "coffee",
+      "cold brew",
+      "iced",
+      "summer",
+      "cold"
+    ],
+    "description": "Ready to steep cold brew coffee bags for iced coffee on hot summer days.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-008",
+    "name": "Instant Coffee Jar 100g",
+    "category": "coffee",
+    "price_inr": 340,
+    "tags": [
+      "coffee",
+      "instant",
+      "quick"
+    ],
+    "description": "Smooth instant coffee that dissolves quickly in hot or cold milk.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-009",
+    "name": "Ceramic Chai Mug Set of 2",
+    "category": "accessories",
+    "price_inr": 799,
+    "tags": [
+      "mug",
+      "ceramic",
+      "gift",
+      "cup"
+    ],
+    "description": "Handmade ceramic mugs, a set of two, ideal for drinking chai or coffee.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-010",
+    "name": "Stainless Steel Tea Infuser",
+    "category": "accessories",
+    "price_inr": 199,
+    "tags": [
+      "infuser",
+      "strainer",
+      "loose leaf"
+    ],
+    "description": "A fine mesh steel infuser and strainer for brewing loose leaf tea.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-011",
+    "name": "Tea Lover Gift Box",
+    "category": "gift sets",
+    "price_inr": 1299,
+    "tags": [
+      "gift",
+      "hamper",
+      "tea",
+      "festival",
+      "diwali"
+    ],
+    "description": "A festive gift box with four premium teas, a mug and an infuser, ideal for Diwali gifting.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-012",
+    "name": "Honey Ginger Lemon Tea 20 bags",
+    "category": "herbal tea",
+    "price_inr": 359,
+    "tags": [
+      "herbal",
+      "sore throat",
+      "cold",
+      "ginger",
+      "honey",
+      "lemon"
+    ],
+    "description": "A soothing herbal tea with honey, ginger and lemon for cold and sore throat.",
+    "in_stock": false
+  },
+  {
+    "sku": "SKU-013",
+    "name": "Coffee Gift Hamper",
+    "category": "gift sets",
+    "price_inr": 1499,
+    "tags": [
+      "gift",
+      "hamper",
+      "coffee",
+      "festival"
+    ],
+    "description": "A gift hamper with filter coffee, cold brew bags and a ceramic mug for coffee lovers.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-014",
+    "name": "Iced Tea Lemon Mix 400g",
+    "category": "tea",
+    "price_inr": 380,
+    "tags": [
+      "iced tea",
+      "lemon",
+      "summer",
+      "cold",
+      "refreshing"
+    ],
+    "description": "A refreshing lemon iced tea mix to enjoy chilled in summer.",
+    "in_stock": true
+  },
+  {
+    "sku": "SKU-015",
+    "name": "Organic Moringa Tea 20 bags",
+    "category": "herbal tea",
+    "price_inr": 420,
+    "tags": [
+      "moringa",
+      "organic",
+      "wellness",
+      "herbal"
+    ],
+    "description": "Organic moringa leaf herbal tea for everyday wellness.",
+    "in_stock": true
+  }
+]

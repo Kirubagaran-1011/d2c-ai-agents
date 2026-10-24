@@ -1,0 +1,32 @@
+{
+  "ORD-1001": {
+    "status": "shipped",
+    "items": [
+      "Assam Strong Morning Tea 250g"
+    ],
+    "courier": "Delhivery",
+    "tracking_number": "DL123456789",
+    "expected_delivery": "2026-10-28",
+    "phone_last4": "4321"
+  },
+  "ORD-1002": {
+    "status": "delivered",
+    "items": [
+      "Cold Brew Coffee Bags 10 pack"
+    ],
+    "courier": "Bluedart",
+    "tracking_number": "BD987654321",
+    "delivered_on": "2026-10-20",
+    "phone_last4": "8765"
+  },
+  "ORD-1003": {
+    "status": "processing",
+    "items": [
+      "Tea Lover Gift Box"
+    ],
+    "courier": null,
+    "tracking_number": null,
+    "expected_delivery": "2026-11-02",
+    "phone_last4": "1111"
+  }
+}
