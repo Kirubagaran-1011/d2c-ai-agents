@@ -1,0 +1,17 @@
+{"query": "strong tea for the morning", "expected": ["SKU-001"]}
+{"query": "spiced ginger cardamom chai", "expected": ["SKU-003"]}
+{"query": "something to help me sleep at night", "expected": ["SKU-004"]}
+{"query": "caffeine free relaxing tea", "expected": ["SKU-004"]}
+{"query": "south indian filter coffee", "expected": ["SKU-006"]}
+{"query": "coffee for hot summer days iced", "expected": ["SKU-007"]}
+{"query": "quick instant coffee", "expected": ["SKU-008"]}
+{"query": "gift for a tea lover on diwali", "expected": ["SKU-011"]}
+{"query": "a mug to drink chai", "expected": ["SKU-009"]}
+{"query": "strainer for loose leaf tea", "expected": ["SKU-010"]}
+{"query": "light floral premium darjeeling", "expected": ["SKU-002"]}
+{"query": "immunity green tea with tulsi", "expected": ["SKU-005"]}
+{"query": "refreshing lemon iced tea for summer", "expected": ["SKU-014"]}
+{"query": "organic moringa wellness tea", "expected": ["SKU-015"]}
+{"query": "coffee gift hamper", "expected": ["SKU-013"]}
+{"query": "kadak chai chahiye", "expected": ["SKU-001", "SKU-003"]}
+{"query": "thanda coffee garmi ke liye", "expected": ["SKU-007"]}
